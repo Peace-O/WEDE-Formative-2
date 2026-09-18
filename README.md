@@ -19,4 +19,3 @@ Harvard Anglia style reference list:
 
 ## Notes
 
-This reference list follows the Harvard Anglia style and can be updated with your final verified sources as needed.
